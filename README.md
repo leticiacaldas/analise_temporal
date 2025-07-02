@@ -84,9 +84,6 @@ Contribuições são bem-vindas! Por favor:
 4. Push para a branch (`git push origin feature/nova-analise`)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 📈 Aplicações
 
@@ -104,8 +101,8 @@ Os dados meteorológicos são obtidos do INMET. Para usar este projeto:
 3. Execute o sistema
 
 ---
-📧 **Contato**: [seu-email@exemplo.com]  
-🔗 **LinkedIn**: [seu-linkedin]
+📧 **Contato**: [lbcaldas@inf.ufpel.edu.br]  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/letícia-caldas-97ab46164/]
 
 ## 📊 Funcionalidades
 
@@ -284,3 +281,8 @@ O sistema automaticamente identifica:
 6. **Alertas automáticos baseados em padrões**
 7. **Integração com APIs meteorológicas**
 8. **Análise de impacto agrícola**
+
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
