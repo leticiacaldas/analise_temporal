@@ -1,0 +1,38 @@
+# Arquivos de dados grandes (CSV)
+*.CSV
+*.csv
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente virtual
+.conda/
+.venv/
+venv/
+env/
+
+# Arquivos de configuração do VS Code específicos do usuário
+.vscode/settings.json
+.vscode/launch.json
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Imagens geradas (opcional - descomente se quiser versionar)
+# *.png
+# *.jpg
+# *.jpeg
+
+# Dados sensíveis ou configurações locais
+config.local.py
+.env
+
+# Notebooks Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
